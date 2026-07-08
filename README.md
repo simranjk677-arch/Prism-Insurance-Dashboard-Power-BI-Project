@@ -1,15 +1,59 @@
-# Prism-Insurance-Dashboard-Power-BI-Project
-Developed an interactive Power BI dashboard for Prism Insurance Pvt. Ltd. to analyze key business metrics and support data-driven decision-making. The dashboard provides a comprehensive overview of Insurance operations, including premium performance, claim analysis, and customer insights.
+# PRISM INSURANCE ANAYSIS DASHBOARD
 
-Key features include:     
+## Project Overview
 
-1.) KPI cards highlighting Total Premium Amount (5.97M), Coverage Amount (600.33M), and Claim Amount (16.90M)      
-2.) Dynamic filtering using slicers for Policy Number, Claim Number, and Customer ID         
-3.) Visual breakdown of Premium Amount by Policy Type (Travel, Health, Auto, Life, Home)        
-4.) Analysis of Active vs Inactive Policies       
-5.) Insights into Claim Status distribution (Rejected, Settled, Pending)           
-6.) Age-based analysis of claim amounts (Adult, Elder, Young Adult)                 
-7.) Gender-based segmentation of customers                      
-8.) Detailed table showing claim outcomes (Pending, Rejected, Settled) across policy types               
+This project analyzes Insurance policy and customer data using Power BI to uncover trends in policy performance, claims, and customer behavior. The dashboard provides interactive visualizations that help stakeholders make informed business decisions.
 
-This dashboard enables stakeholders to quickly identify trends, monitor performance, and optimize Insurance operations through intuitive and interactive visualizations.
+## Tools Used
+
+* Power BI
+* Excel
+* SQL
+
+## Key Performance Indicators (KPIs)
+
+* Total Customers: 10,000
+* Male Customers: 5,000
+<img width="182" height="35" alt="Image" src="https://github.com/user-attachments/assets/b0442d42-f172-4730-a2a8-0e6258ec2ca7" />
+
+* Female Customers: 5,000
+<img width="182" height="44" alt="Image" src="https://github.com/user-attachments/assets/9f49ebbe-5279-4cd6-8494-a999cbe55589" />
+
+* Total Premium Amount: 5.97M
+<img width="131" height="55" alt="Image" src="https://github.com/user-attachments/assets/82d2cea1-903c-422f-93b8-434a15de3379" />
+
+* Total Coverage Amount: 600.33M
+<img width="131" height="55" alt="Image" src="https://github.com/user-attachments/assets/c156c368-3389-4184-b10e-34b3637cd7f0" />
+
+* Total Claim Amount: 16.90M
+<img width="131" height="55" alt="Image" src="https://github.com/user-attachments/assets/81553489-81a3-405f-b155-a76f90f03760" />
+
+
+## Key Features
+
+* Policy performance analysis
+* Claims trend monitoring
+* Customer segmentation
+* KPI tracking and reporting
+* Interactive filters and dashboards
+
+## Dashboard Insights
+
+* Identified top-performing insurance policies.
+* Analyzed claim patterns across customer segments.
+* Tracked key business metrics through dynamic visualizations.
+* Highlighted trends to support data-driven decision-making.
+
+## Dashboard
+
+* Dashboard Screenshots
+<img width="625" height="338" alt="Image" src="https://github.com/user-attachments/assets/97213288-7169-4ca5-b481-8dad0b75a39f" />
+
+
+## Conclusion
+
+The dashboard transforms raw insurance data into actionable insights, enabling better monitoring of business performance and customer trends.
+
+
+
+
